@@ -1,0 +1,21 @@
+Session3 Assingnment1
+
+Q1. d)once
+
+Q2. b)input splits
+
+Q3. d)fault tolerance
+
+Q4. c) hdfs-site.xml
+
+Q5. b)logical
+
+Q6. c)namespace
+
+Q7. b)pipeline
+
+Q8. a)close()
+
+Q9. b)DFSInputStream
+
+Q10. c)100
